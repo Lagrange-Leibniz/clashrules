@@ -1,5 +1,6 @@
 # Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
+payload:
+  - '+.phncdn.com'
+  - '+.phprcdn.com'
+  - '+.pornhub.com'
+  - '+.pornhubpremium.com'
