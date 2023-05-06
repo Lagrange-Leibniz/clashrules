@@ -1,4 +1,3 @@
 # Emby
-payload:
-  - '+.emby.wtf'
-  - '+.misakaf.org'
+DOMAIN-SUFFIX, emby.wtf
+DOMAIN-SUFFIX, misakaf.org
