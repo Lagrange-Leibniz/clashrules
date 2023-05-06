@@ -1,5 +1,6 @@
-payload:
-  - DOMAIN-KEYWORD,-spotify-com
+payload: 
+  - USER-AGENT,Spotify*
+  - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,spotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
