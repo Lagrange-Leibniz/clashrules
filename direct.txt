@@ -1,4 +1,5 @@
 #https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
+DOMAIN-SUFFIX,latexlive.com
 DOMAIN-SUFFIX,xsus.buzz
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net
