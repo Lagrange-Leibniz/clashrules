@@ -1,4 +1,6 @@
 #https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
+IP-CIDR,38.175.196.16/32
+DOMAIN-SUFFIX,sxjm.pro
 DOMAIN-SUFFIX,latexlive.com
 DOMAIN-SUFFIX,xsus.buzz
 DOMAIN-SUFFIX,xsus.me
